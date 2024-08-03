@@ -1,0 +1,13 @@
+#ifndef DXUT_RESOURCES_H
+#define DXUT_RESOURCES_H
+
+#define IDI_CHIP_ICON 101
+#define IDI_3D_ICON 102
+#define IDC_PAPER_PLANE_CURSOR 201
+#define IDC_GREEN_CURSOR 202
+
+#endif 
+
+
+
+
